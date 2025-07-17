@@ -1,6 +1,6 @@
 # 👋 Hola, soy David Molina Flórez
 
-### 🧠 Ingeniero Mecatrónico | Diseñador de productos tecnológicos | Automatizador de procesos
+### 🧠 Ingeniero Mecatrónico | Diseñador de productos tecnológicos | Automatizador de procesos | Ingeniero de Soluciones Personalizadas (Tech Solutions Engineer) | Maker Educador / Formador Tecnológico
 
 Soy un profesional colombiano con más de 10 años de experiencia en la intersección entre ingeniería, diseño industrial, automatización e innovación práctica. Me dedico a diseñar, desarrollar e integrar soluciones funcionales que conectan lo digital y lo físico: desde sistemas embebidos y domótica hasta herramientas web y fabricación de productos.
 
@@ -54,9 +54,9 @@ Estoy buscando colaborar con:
 - 🎨 Estudios de diseño que quieran unir estética con funcionalidad.
 
 📫 **Contáctame**  
-📧 davidmolflo@gmail.com
+📧 davidmolflo@gmail.com  
 📱 Instagram: [@neolito](https://instagram.com/neolito)  
-🌍 septipus.com
+🌍 [septipus.com](https://septipus.com)
 
 ---
 
